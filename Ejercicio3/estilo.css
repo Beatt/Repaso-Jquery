@@ -1,0 +1,9 @@
+/*
+ * 1em = 12 puntos
+ * 16 pixeles lentra en los navegadores
+ */
+h3.big{
+	font-size:  3em;
+	padding-top: .5em;
+}
+
